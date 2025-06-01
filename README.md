@@ -2,7 +2,7 @@
 ## 📊 Big Data Analysis Certification (Practical Exam) - Practice Repository
 
 Welcome! This repository contains my study notes and practice solutions for the **Big Data Analysis Certification**.  
-The structure follows the topics covered in the *SiNaGong* textbook, focusing on hands-on tasks and coding exercises.
+The structure follows the topics covered in the *Sinagong* textbook, focusing on hands-on tasks and coding exercises.
 
 ---
 
